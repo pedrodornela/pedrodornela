@@ -17,7 +17,6 @@ Here are some of the programs, languages and soft and hard skills that I have:
 * HTML, CSS
 * .Net, VS Code
 * SQL Server, Oracle, MongoDB
-* Git, GitHub
 * Computer network, Network infrastructure
 * Team Work, Organized, Discipline
 
