@@ -76,6 +76,9 @@ I have been in the tecnology world since 2016 and during this period I had gradu
 ## **GitHub Stats**
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrodornela&show_icons=true&theme=github_dark_dimmed&hide_title=true)
 
+---
+## **A place that I improve my programming and logic skills 👨🏽‍🔬**
+### [Exercism](https://exercism.org/profiles/pedrodornela)
 
 ---
 ### **🎤What languages do you speak?**
