@@ -79,6 +79,7 @@ I have been in the tecnology world since 2016 and during this period I had gradu
 ---
 ## **A place that I improve my programming and logic skills 👨🏽‍🔬**
 ### [Exercism](https://exercism.org/profiles/pedrodornela)
+### [Microsoft Learn](https://learn.microsoft.com/pt-pt/users/pedrohenriquedornelagonalves-1231)
 
 ---
 ### **🎤What languages do you speak?**
