@@ -71,7 +71,7 @@ I have been in the tecnology world since 2016 and during this period I had gradu
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodornela&layout=donut&theme=github_dark_dimmed)
-
+![Top Langs](https://github-readme-stats.vercel.app/api?username=pedrodornela&show_icons=true&theme=github_dark_dimmed&hide_title=true)
 ---
 ## **GitHub Stats**
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrodornela&show_icons=true&theme=github_dark_dimmed&hide_title=true)
