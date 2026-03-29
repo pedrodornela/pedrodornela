@@ -6,7 +6,7 @@
 ## **💁🏽‍♂️About me**
 
 I'm a developer and enthusiast of technology , always searching for the best way for solve the challenges encountered in my personal and career life.
-I have been in the tecnology world since 2016 and during this period I had graduated from a technical course in IT and graduated in Analysis and System Development.
+I have been in the tecnology world since 2016 and during this period I had graduated from a technical course in IT, graduated in Analysis and System Development and posdegree in Offensive Cyber Security .
 
 ---
 
@@ -77,10 +77,11 @@ I have been in the tecnology world since 2016 and during this period I had gradu
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrodornela&show_icons=true&theme=github_dark_dimmed&hide_title=true)
 
 ---
-## **A place that I improve my programming and logic skills 👨🏽‍🔬**
+## **Some places that I improve my programming, logic and cyber skills 👨🏽‍🔬**
 ### [Exercism](https://exercism.org/profiles/pedrodornela)
 ### [Microsoft Learn](https://learn.microsoft.com/pt-pt/users/pedrohenriquedornelagonalves-1231)
 ### [DIO](https://web.dio.me/users/72000490/)
+### [TryHackme](https://tryhackme.com/p/pedro.henriquedg)
 
 ---
 ### **🎤What languages do you speak?**
